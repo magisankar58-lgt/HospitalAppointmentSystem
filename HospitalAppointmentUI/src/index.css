@@ -1,0 +1,230 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f8fc;
+  color: #333;
+}
+
+/* Navbar */
+
+nav {
+  background: #1565c0;
+  color: white;
+  padding: 18px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav h2 {
+   color: white;
+  font-size: 22px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 25px;
+}
+
+/* Main */
+
+main {
+  max-width: 1100px;
+  margin: auto;
+  padding: 50px 20px;
+}
+
+/* Home */
+
+main > h1 {
+  text-align: center;
+  font-size: 38px;
+  color: #1565c0;
+  margin-bottom: 12px;
+}
+
+main > p {
+  text-align: center;
+  color: #666;
+  margin-bottom: 35px;
+  font-size: 17px;
+}
+
+/* Main button */
+
+main > button {
+  display: block;
+  margin: 0 auto 45px;
+  background: #1565c0;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Section headings */
+
+h2 {
+  text-align: center;
+  margin: 35px 0 20px;
+  color: #1565c0;
+}
+
+/* Doctors */
+
+.doctor-card {
+  background: white;
+  width: 320px;
+  padding: 25px;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.doctor-card h3 {
+  color: #1565c0;
+  margin-bottom: 15px;
+}
+
+.doctor-card p {
+  margin-bottom: 10px;
+}
+
+/* Appointment form */
+
+.appointment-form {
+  background: white;
+  max-width: 550px;
+  margin: 45px auto;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.appointment-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.appointment-form label {
+  margin-top: 15px;
+  margin-bottom: 6px;
+  font-weight: bold;
+}
+
+.appointment-form input,
+.appointment-form select {
+  padding: 11px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+.appointment-form button {
+  margin-top: 25px;
+  padding: 12px;
+  background: #1565c0;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Appointments */
+
+.appointment-list {
+  margin-top: 50px;
+}
+
+.appointment-card {
+  background: white;
+  max-width: 700px;
+  margin: 15px auto;
+  padding: 22px;
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.appointment-card h3 {
+  color: #1565c0;
+  margin-bottom: 15px;
+}
+
+.appointment-card p {
+  margin-bottom: 8px;
+}
+
+.add-doctor,
+.add-patient {
+  background: white;
+  max-width: 550px;
+  margin: 45px auto;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.add-doctor form,
+.add-patient form {
+  display: flex;
+  flex-direction: column;
+}
+
+.add-doctor label,
+.add-patient label {
+  margin-top: 15px;
+  margin-bottom: 6px;
+  font-weight: bold;
+}
+
+.add-doctor input,
+.add-patient input,
+.add-patient select {
+  padding: 11px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+.add-doctor button,
+.add-patient button {
+  margin-top: 25px;
+  padding: 12px;
+  background: #1565c0;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.patient-list {
+  margin-top: 50px;
+}
+
+.patient-card {
+  background: white;
+  max-width: 700px;
+  margin: 15px auto;
+  padding: 22px;
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.patient-card h3 {
+  color: #1565c0;
+  margin-bottom: 15px;
+}
+
+.patient-card p {
+  margin-bottom: 8px;
+}

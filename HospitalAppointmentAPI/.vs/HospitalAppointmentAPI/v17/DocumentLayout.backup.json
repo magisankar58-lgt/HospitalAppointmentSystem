@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\hospitalappointmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\hospitalappointmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\migrations\\20260918101445_addappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\migrations\\20260918101445_addappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\migrations\\20260918095508_addpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\migrations\\20260918095508_addpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|c:\\users\\acer\\source\\repos\\hospitalappointmentapi\\hospitalappointmentapi\\migrations\\20260918092904_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AFCEC4-95EC-4C20-9C77-5CFBA3761866}|HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj|solutionrelative:hospitalappointmentapi\\migrations\\20260918092904_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260918101445_AddAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Migrations\\20260918101445_AddAppointment.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Migrations\\20260918101445_AddAppointment.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Migrations\\20260918101445_AddAppointment.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Migrations\\20260918101445_AddAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:14:46.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Models\\Appointment.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Models\\Appointment.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:12:02.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:58:21.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:52:56.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:35:07.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Program.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:25:48.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:16:06.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:16:03.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260918095508_AddPatient.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Migrations\\20260918095508_AddPatient.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Migrations\\20260918095508_AddPatient.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Migrations\\20260918095508_AddPatient.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Migrations\\20260918095508_AddPatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:55:08.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260918092904_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Migrations\\20260918092904_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Migrations\\20260918092904_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Migrations\\20260918092904_InitialCreate.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Migrations\\20260918092904_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:29:04.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:25:46.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\appsettings.json",
+              "RelativeToolTip": "HospitalAppointmentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-18T09:23:54.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HospitalAppointmentAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj",
+              "RelativeToolTip": "HospitalAppointmentAPI\\HospitalAppointmentAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T09:15:21.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentAPI\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\HospitalAppointmentAPI\\HospitalAppointmentAPI\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalAppointmentAPI\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:09:35.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
