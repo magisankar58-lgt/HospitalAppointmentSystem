@@ -128,6 +128,24 @@ Through this project, I practiced:
 * CRUD operations
 * Connecting frontend, backend and database
 
+## Screenshots
+
+### Home and Doctors
+
+![Home and Doctors](Screenshots/home-doctors.png)
+
+### Add Doctor and Patients
+
+![Add Doctor and Patients](Screenshots/add-doctor-patients.png)
+
+### Book Appointment
+
+![Book Appointment](Screenshots/book-appointment.png)
+
+### Booked Appointments
+
+![Booked Appointments](Screenshots/booked-appointments.png)
+
 ## Author
 
 Magi S
